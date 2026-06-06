@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment & secrets
+.env
+.env.local
+*.pem
+
+# AWS
+.aws/credentials
+.aws/config
+
+# Data files (too large for Git — download from NYC TLC)
+*.parquet
+*.csv
+*.orc
+
+# Generated / local artifacts
+view.txt
+metadata_texts.json
+faiss_index.bin
+*.bin
+*.index
+
+# IDE & OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

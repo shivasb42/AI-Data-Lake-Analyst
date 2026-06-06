@@ -1,0 +1,8 @@
+How many taxi trips are in January 2025?
+What is the average fare amount?
+What is the average trip distance in miles?
+Show the top 5 pickup zones by trip count.
+Compare average tip amount for credit card vs cash payments.
+How many trips had a distance greater than 10 miles?
+What is the total revenue (total_amount) by payment type?
+What hour of the day has the most pickups?
